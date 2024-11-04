@@ -1,4 +1,4 @@
-import os, strutils, sequtils
+import strutils, sequtils
 
 import dsl_impl, valid_tex_commands
 
